@@ -1,0 +1,37 @@
+sector,postings,share_exposed,share_augmented,share_resistant,avg_exposure_score,share_ai_in_duties,top_skills,postings_change_pct,vs_market_pts
+Accounting,3,0.667,0.333,0.0,0.758,0.0,"fp&a, financial modeling, budgeting, forecasting, excel, accounting, financial reporting, real estate accounting",-10.937,-0.205
+Administrative Assistance,5,0.6,0.2,0.2,0.64,0.0,"office management, hr administration, accounts payable, invoicing, crm, scheduling, hr onboarding, vendor management",-23.841,-13.11
+Architecture,1,0.0,1.0,0.0,0.375,0.0,"revit, autocad, architectural design, construction documentation, sketching",-15.458,-4.727
+Arts & Entertainment,1,0.0,0.0,1.0,0.167,0.0,"music leadership, worship planning, team mentoring",-2.482,8.249
+Banking & Finance,5,0.6,0.0,0.4,0.567,0.0,"trade review, finra compliance, supervision, securities, equity capital markets, institutional sales, series 7, loan processing",10.242,20.974
+Civil Engineering,2,0.0,1.0,0.0,0.584,0.0,"structural design, structural analysis, seismic retrofit, pe license, fire sprinkler design, autocad, building codes",-13.786,-3.054
+Cleaning & Sanitation,1,0.0,0.0,1.0,0.0,0.0,"window cleaning, ladder safety, power washing, customer service",-9.607,1.124
+Construction,1,0.0,1.0,0.0,0.5,0.0,"home inspection, trec license, report writing, driving",-4.551,6.18
+Customer Service,3,1.0,0.0,0.0,0.819,0.0,"customer service, data entry, order entry, quotations, shop drawings, product knowledge, reservations, scheduling",-6.061,4.67
+Data & Analytics,1,0.0,1.0,0.0,0.667,1.0,"data analysis, predictive modeling, visualization, excel",-12.458,-1.726
+Dental,1,0.0,0.0,1.0,0.333,0.0,"dental hygiene, patient care, scheduling",-18.25,-7.519
+Education & Instruction,4,0.0,0.25,0.75,0.24,0.0,"swim instruction, cpr certification, scheduling, montessori, early childhood education, classroom management, student advising, budgeting",-25.38,-14.649
+Food Preparation & Service,2,0.0,0.0,1.0,0.062,0.0,"fine dining service, team leadership, guest relations, restaurant operations, staff supervision, customer service",-14.363,-3.632
+Hospitality & Tourism,2,0.0,0.0,1.0,0.25,0.0,"service standards, training, restaurant operations, leadership, event setup, scheduling, audio-visual, hospitality",-19.261,-8.53
+"IT Infrastructure, Operations & Support",1,0.0,1.0,0.0,0.625,0.0,"technical support, wireless networks, web applications, rfp support",-14.584,-3.853
+IT Systems & Solutions,2,0.0,1.0,0.0,0.646,0.0,"computer system validation, labware lims, test protocols, gxp, oracle financials, erp, consulting, training",-3.005,7.726
+Installation & Maintenance,6,0.0,0.0,1.0,0.181,0.0,"maintenance, hvac, refrigeration, installation, inspections, construction safety, general labor, landscaping",-5.863,4.868
+Insurance,2,0.5,0.5,0.0,0.666,0.0,"social security, retirement planning, client advising, phone communication, customer service, insurance policies, communication, computer skills",-3.317,7.414
+Legal,5,0.4,0.6,0.0,0.642,0.0,"litigation, civil litigation, corporate law, m&a, contract drafting, due diligence, negotiation, estate planning",-2.912,7.819
+Loading & Stocking,1,0.0,0.0,1.0,0.0,0.0,"moving, heavy lifting, customer service, driving",-3.822,6.909
+Logistic Support,1,1.0,0.0,0.0,0.875,0.0,"demand planning, forecasting, inventory management, scheduling",3.957,14.688
+Management,5,0.0,0.2,0.8,0.308,0.0,"operations management, leadership, budgeting, program management, small business counseling, partnerships, grant reporting, warehouse",-7.164,3.567
+Marketing,7,0.429,0.571,0.0,0.693,0.0,"graphic design, social media, content creation, adobe creative cloud, indesign, microsoft office, organization, digital marketing",-3.411,7.32
+Media & Communications,3,0.667,0.333,0.0,0.694,0.0,"event production, creative direction, project management, content writing, editing, editorial calendar, newsletter production, blog writing",-19.684,-8.953
+Medical Technician,1,0.0,1.0,0.0,0.5,0.0,"dental cad/cam, implant design, prescription review",-12.919,-2.188
+Nursing,2,0.0,0.0,1.0,0.312,0.0,"patient assessment, registered nurse, long-term care, medication administration, emergency nursing, patient education, documentation",-15.107,-4.376
+Personal Care & Home Health,1,0.0,0.0,1.0,0.333,0.0,"coaching, customer service, sales, health and wellness",5.767,16.498
+Pharmacy,1,0.0,1.0,0.0,0.5,0.0,"pharmacy management, staff supervision, budgeting, drug interactions",-11.049,-0.318
+Physicians & Surgeons,1,0.0,1.0,0.0,0.5,0.0,"primary care, patient examination, diagnosis, prescribing",7.455,18.186
+Production & Manufacturing,3,0.667,0.0,0.333,0.653,0.0,"production planning, scheduling, erp, manufacturing, quality assurance, brc audits, food safety, supplier documentation",1.682,12.413
+Retail,1,0.0,1.0,0.0,0.5,0.0,"showroom sales, design consultation, customer service",-18.366,-7.635
+Sales,9,0.0,0.667,0.333,0.394,0.0,"relationship building, event staffing, lead generation, english, mandarin, sales leadership, wholesaler management, beverage industry",0.2,10.931
+Scientific Research & Development,1,0.0,0.0,1.0,0.125,0.0,"embryology, ivf, icsi, micromanipulation, laboratory",-16.173,-5.442
+Social Science,1,0.0,1.0,0.0,0.5,0.0,"urban planning, research, report writing, data analysis",-27.391,-16.66
+Software Development,3,0.0,1.0,0.0,0.653,0.0,"software development, mobile apps, security, php, object-oriented programming, e-commerce platforms, debugging, full-stack development",15.263,25.994
+Therapy,4,0.0,0.0,1.0,0.292,0.0,"respiratory care, pediatrics, patient assessment, ventilator management, applied behavior analysis, functional assessment, behavior support plans, supervision",5.406,16.137
